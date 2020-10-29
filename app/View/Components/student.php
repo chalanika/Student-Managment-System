@@ -8,6 +8,7 @@ class student extends Component
 {
     public $title;
     public $info;
+    public $count;
     /**
      * Create a new component instance.
      *
